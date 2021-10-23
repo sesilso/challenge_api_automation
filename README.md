@@ -1,9 +1,17 @@
-# Getting started with REST API testing with Serenity and Cucumber 6
+# challenge_api_automation
+Configuration file: 
+serenity.properties
 
-This is a simple starter project for Serenity with Cucumber 6 and RestAssured
+  api.key=ed590f7ea135949580a4536529cb1a1f (countrylayer.com key)
+  url.get.all=http://api.countrylayer.com/v2/all
+  url.get.by.code=http://api.countrylayer.com/v2/alpha/{code}
+  url.add.country=http://api.countrylayer.com/v3/new
 
-## Want to learn more?
-For more information about Serenity BDD, you can read the [**Serenity BDD Book**](https://serenity-bdd.github.io/theserenitybook/latest/index.html), the official online Serenity documentation source. Other sources include:
-* **[Byte-sized Serenity BDD](https://www.youtube.com/channel/UCav6-dPEUiLbnu-rgpy7_bw/featured)** - tips and tricks about Serenity BDD
-* [**Serenity BDD Blog**](https://johnfergusonsmart.com/category/serenity-bdd/) - regular articles about Serenity BDD
-* [**The Serenity Dojo**](https://www.serenity-dojo.com) - Tailored BDD and Test Automation Training and Mentoring
+run command: 
+*mvn clean verify*
+
+test case scenario:
+src/test/resources/features/postcodes/countryLayer.feature
+
+Output report:
+target/site/serenity/index.html
