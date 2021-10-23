@@ -1,0 +1,248 @@
+[
+	{
+		"name": "United States of America",
+		"topLevelDomain": [
+			".us"
+		],
+		"alpha2Code": "US",
+		"alpha3Code": "USA",
+		"callingCodes": [
+			"1"
+		],
+		"capital": "Washington, D.C.",
+		"altSpellings": [
+			"US",
+			"USA",
+			"United States of America"
+		],
+		"region": "Americas"
+	},
+	{
+		"name": "Germany",
+		"topLevelDomain": [
+			".de"
+		],
+		"alpha2Code": "DE",
+		"alpha3Code": "DEU",
+		"callingCodes": [
+			"49"
+		],
+		"capital": "Berlin",
+		"altSpellings": [
+			"DE",
+			"Federal Republic of Germany",
+			"Bundesrepublik Deutschland"
+		],
+		"region": "Europe"
+	},
+	{
+		"name": "United Kingdom of Great Britain and Northern Ireland",
+		"topLevelDomain": [
+			".uk"
+		],
+		"alpha2Code": "GB",
+		"alpha3Code": "GBR",
+		"callingCodes": [
+			"44"
+		],
+		"capital": "London",
+		"altSpellings": [
+			"GB",
+			"UK",
+			"Great Britain"
+		],
+		"region": "Europe"
+	},
+	{
+		"name": "Afghanistan",
+		"topLevelDomain": [
+			".af"
+		],
+		"alpha2Code": "AF",
+		"alpha3Code": "AFG",
+		"callingCodes": [
+			"93"
+		],
+		"capital": "Kabul",
+		"altSpellings": [
+			"AF",
+			"Afġānistān"
+		],
+		"region": "Asia"
+	},
+	{
+		"name": "Åland Islands",
+		"topLevelDomain": [
+			".ax"
+		],
+		"alpha2Code": "AX",
+		"alpha3Code": "ALA",
+		"callingCodes": [
+			"358"
+		],
+		"capital": "Mariehamn",
+		"altSpellings": [
+			"AX",
+			"Aaland",
+			"Aland",
+			"Ahvenanmaa"
+		],
+		"region": "Europe"
+	},
+	{
+		"name": "Albania",
+		"topLevelDomain": [
+			".al"
+		],
+		"alpha2Code": "AL",
+		"alpha3Code": "ALB",
+		"callingCodes": [
+			"355"
+		],
+		"capital": "Tirana",
+		"altSpellings": [
+			"AL",
+			"Shqipëri",
+			"Shqipëria",
+			"Shqipnia"
+		],
+		"region": "Europe"
+	},
+	{
+		"name": "Algeria",
+		"topLevelDomain": [
+			".dz"
+		],
+		"alpha2Code": "DZ",
+		"alpha3Code": "DZA",
+		"callingCodes": [
+			"213"
+		],
+		"capital": "Algiers",
+		"altSpellings": [
+			"DZ",
+			"Dzayer",
+			"Algérie"
+		],
+		"region": "Africa"
+	},
+	{
+		"name": "American Samoa",
+		"topLevelDomain": [
+			".as"
+		],
+		"alpha2Code": "AS",
+		"alpha3Code": "ASM",
+		"callingCodes": [
+			"1"
+		],
+		"capital": "Pago Pago",
+		"altSpellings": [
+			"AS",
+			"Amerika Sāmoa",
+			"Amelika Sāmoa",
+			"Sāmoa Amelika"
+		],
+		"region": "Oceania"
+	},
+	{
+		"name": "Andorra",
+		"topLevelDomain": [
+			".ad"
+		],
+		"alpha2Code": "AD",
+		"alpha3Code": "AND",
+		"callingCodes": [
+			"376"
+		],
+		"capital": "Andorra la Vella",
+		"altSpellings": [
+			"AD",
+			"Principality of Andorra",
+			"Principat d'Andorra"
+		],
+		"region": "Europe"
+	},
+	{
+		"name": "Angola",
+		"topLevelDomain": [
+			".ao"
+		],
+		"alpha2Code": "AO",
+		"alpha3Code": "AGO",
+		"callingCodes": [
+			"244"
+		],
+		"capital": "Luanda",
+		"altSpellings": [
+			"AO",
+			"República de Angola",
+			"ʁɛpublika de an'ɡɔla"
+		],
+		"region": "Africa"
+	},
+	{
+		"name": "Anguilla",
+		"topLevelDomain": [
+			".ai"
+		],
+		"alpha2Code": "AI",
+		"alpha3Code": "AIA",
+		"callingCodes": [
+			"1"
+		],
+		"capital": "The Valley",
+		"altSpellings": [
+			"AI"
+		],
+		"region": "Americas"
+	},
+	{
+		"name": "Antarctica",
+		"topLevelDomain": [
+			".aq"
+		],
+		"alpha2Code": "AQ",
+		"alpha3Code": "ATA",
+		"callingCodes": [
+			"672"
+		],
+		"capital": "",
+		"altSpellings": [],
+		"region": "Polar"
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"topLevelDomain": [
+			".ag"
+		],
+		"alpha2Code": "AG",
+		"alpha3Code": "ATG",
+		"callingCodes": [
+			"1"
+		],
+		"capital": "Saint John's",
+		"altSpellings": [
+			"AG"
+		],
+		"region": "Americas"
+	},
+	{
+		"name": "Argentina",
+		"topLevelDomain": [
+			".ar"
+		],
+		"alpha2Code": "AR",
+		"alpha3Code": "ARG",
+		"callingCodes": [
+			"54"
+		],
+		"capital": "Buenos Aires",
+		"altSpellings": [
+			"AR",
+			"Argentine Republic",
+			"República Argentina"
+		],
+		"region": "Americas"
+	}
+]
